@@ -1,4 +1,5 @@
 #https://github.com/RedHatInsights/insights-client-role
+#ansible-galaxy install RedHatInsights.insights-client
 ---
   - hosts: all
     roles:
